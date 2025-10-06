@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.summary     = 'Simple Lightweight Option Parsing'
   s.description = 'A DSL for gathering options and parsing command line flags'
   s.author      = 'Lee Jarvis'
-  s.email       = 'ljjarvis@gmail.com'
+  s.email       = 'lee@jrvs.uk'
   s.homepage    = 'http://github.com/leejarvis/slop'
   s.files       = `git ls-files`.split("\n")
   s.license     = 'MIT'
